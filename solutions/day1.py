@@ -21,4 +21,3 @@ for i in range(len(left_col)):
 
 print(sol1)
 print(sol2)
-
